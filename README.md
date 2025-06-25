@@ -2,6 +2,11 @@
 
 Este proyecto contiene una base de datos para una tienda de ropa. Incluye operaciones CRUD y consultas específicas.
 
+# Integrantes del proyecto
+
+Marco Arias Arias
+Sebastian Brenes Calderon
+
 ## Colecciones
 
 ### Usuarios
