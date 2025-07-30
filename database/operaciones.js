@@ -1,5 +1,5 @@
 // Seleccionar o crear la base de datos
-use tiendaRopa;
+use TiendaDeRopa;
 
 // Inserts 
 
