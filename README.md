@@ -41,3 +41,5 @@ Ejemplo JSON:
   "precio": 12000,
   "stock": 30
 }
+
+#ENDPOINTS DE LA API
